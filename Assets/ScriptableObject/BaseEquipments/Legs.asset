@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b7b35f7f9f19942b8ddcdb62909468, type: 3}
+  m_Name: Legs
+  m_EditorClassIdentifier: 
+  minimumEquipmentStats:
+    health: 0
+    attack: 0
+    defense: 0
+    movespeed: 0
+    healthRegen: 0
+    timeToHealthRegen: 0
+  maximumEquipmentStats:
+    health: 1
+    attack: 0
+    defense: 0.1
+    movespeed: 0.01
+    healthRegen: 0.1
+    timeToHealthRegen: 0
+  equipmentSprite: {fileID: 21300000, guid: 57b9f42053fb22648bfe92029ca363c3, type: 3}
+  health: 0
+  attack: 0
+  defense: 0
+  movespeed: 0
+  healthRegen: 0
+  slot: 2
